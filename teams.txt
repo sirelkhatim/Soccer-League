@@ -1,0 +1,21 @@
+Sharks
+Herschel Krustofski,YES,Hyman and Rachel Krustofski
+Arnold Willis,NO,Claire Willis
+Les Clay,YES,Wynonna Brown
+Chloe Alaska,NO,David and Jamie Alaska
+Phillip Helm,YES,Thomas Helm and Eva Jones
+Ben Finkelstein,NO,Aaron and Jill Finkelstein
+Dragons
+Diego Soto,YES,Robin and Sarika Soto
+Joe Kavalier,NO,Sam and Elaine Kavalier
+Suzane Greenberg,YES,Henrietta Dumas
+Sal Dali,NO,Gala Dali
+Karl Saygan,YES,Heather Bledsoe
+Sammy Adams,NO,Jeff Adams
+Raptors
+Bill Bon,YES,Sara and Jenny Bon
+Kimmy Stein,NO,Bill and Hillary Stein
+Jill Tanner,YES,Clara Tanner
+Matt Gill,NO,Charles and Sylvia Gill
+Joe Smith,YES,Jim and Jan Smith
+Eva Gordon,NO,Wendy and Mike Gordon
